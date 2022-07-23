@@ -1,3 +1,13 @@
 # Table of contents
 
-* [Page 1](README.md)
+## CTFs
+
+* [2022 - DiceCTF @ HOPE](README.md)
+
+## Mobile Challenges
+
+* [NahamCon CTF 2022](mobile-challenges/nahamcon-ctf-2022.md)
+
+## HackTheBox
+
+* [Page 2](hackthebox/page-2.md)
