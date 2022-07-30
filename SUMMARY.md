@@ -2,7 +2,7 @@
 
 ## CTFs
 
-* [2022 - DiceCTF @ HOPE](README.md)
+* [2022 - UACTF](README.md)
 
 ## Mobile Challenges
 
